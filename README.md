@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... -->
 - 📫 How to reach me: You can Reach me on discord if you want, we can chat and have fun, French Noodles#6046
 <!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... ->
+- ⚡ Fun fact: ... -->
 
 [![French Noodle's stats](https://github-readme-stats.vercel.app/api?username=French-Noodles)](https://github.com/anuraghazra/github-readme-stats)
