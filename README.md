@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![French Noodle's stats](https://github-readme-stats.vercel.app/api?username=French-Noodles)](https://github.com/anuraghazra/github-readme-stats)
+[![French Noodle's stats](https://github-readme-stats.vercel.app/api?username=French-Noodles&bg_color=DEG,#f0f06e,#fdfd94,#f5f59d,#ffff)](https://github.com/anuraghazra/github-readme-stats)
