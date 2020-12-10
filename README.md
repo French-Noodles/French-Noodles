@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<!-- stats -->
 [![French Noodle's stats](https://github-readme-stats.vercel.app/api?username=French-Noodles&bg_color=DEG,#f0f06e,#fdfd94,#f5f59d,#ffff)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- languages -->
+[![Top Languages i use](https://github-readme-stats.vercel.app/api/top-langs/?username=rench-Noodles)](https://github.com/anuraghazra/github-readme-stats)
