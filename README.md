@@ -45,6 +45,6 @@ It says that there isnt too many commits and that i only use 100% python bec all
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.noodlesbot.tk/"><img alt="Website" src="https://img.shields.io/badge/Website-www.noodlesbot.tk-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://frenchnoodles.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.frenchnoodles.xyz-blue?style=flat-square&logo=google-chrome"></a>
 <a><img alt="Discord" src="https://img.shields.io/badge/Discord-French_Noodles__6046-blue?style=flat-square&logo=Discord"></a>
 </p>
