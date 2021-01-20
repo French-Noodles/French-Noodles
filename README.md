@@ -46,5 +46,5 @@ It says that there isnt too many commits and that i only use 100% python bec all
 
 <p align="center">
 <a href="https://frenchnoodles.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.frenchnoodles.xyz-blue?style=flat-square&logo=google-chrome"></a>
-<a><img alt="Discord" src="https://img.shields.io/badge/Discord-French_Noodles__6046-blue?style=flat-square&logo=Discord"></a>
+<a href="https://discord.gg/dsj4BCJZ"><img alt="Discord" src="https://img.shields.io/badge/Discord-French_Noodles__6046-blue?style=flat-square&logo=Discord"></a>
 </p>
