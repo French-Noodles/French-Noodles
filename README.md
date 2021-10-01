@@ -43,7 +43,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=French-Noodles&theme=buefy&layout=compact" />
 </a>
 
-It says that there isnt too many commits and that i only use 100% python bec all my other repositories are private xD
+It says that there isnt too many commits and that i only use python and JavaScript bec all my other repositories are private
 
 <br/>
 
