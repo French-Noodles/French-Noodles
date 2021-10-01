@@ -18,7 +18,6 @@
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=Node.js)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 - 🛢 &nbsp;
   <!--![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)-->
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -31,7 +30,11 @@
   ![Sublime text](https://img.shields.io/badge/-Sublime%20text-333333?style=flat&logo=sublime-text&logoColor=FF9800)
 - 🖥 &nbsp;
   ![Gimp](https://img.shields.io/badge/-gimp-333333?style=flat&logo=gimp)
-  
+  ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
+- Still learning &nbsp;
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 
 <br/>
 
