@@ -38,11 +38,6 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=French-Noodles&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=French-Noodles&theme=buefy&layout=compact" />
-</a>
-
 It says that there isnt too many commits and that i only use python and JavaScript bec all my other repositories are private
 
 <br/>
