@@ -38,10 +38,6 @@
 
 <br/>
 
-It says that there isnt too many commits and that i only use python and JavaScript bec all my other repositories are private
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
