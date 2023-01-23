@@ -36,7 +36,6 @@
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
