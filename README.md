@@ -40,6 +40,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+[![Discord Bots](https://top.gg/api/widget/706865701373345813.svg)](https://top.gg/bot/706865701373345813)
+
+[![Community](https://discordapp.com/api/guilds/707934061724827678/widget.png?style=banner2)](https://discord.com/invite/TnfeMrV)
+
 <p align="center">
 <a href="https://frenchnoodles.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.frenchnoodles.xyz-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://discord.gg/dsj4BCJZ"><img alt="Discord" src="https://img.shields.io/badge/Discord-French_Noodles__6046-blue?style=flat-square&logo=Discord"></a>
