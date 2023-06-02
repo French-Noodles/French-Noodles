@@ -9,6 +9,8 @@
 - 💼 &nbsp; Working as a Human being.
 - 🌱 &nbsp; Learning more about Server side programming, Node.js and discord bots.
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+
 
 <h3> 🛠 &nbsp;Some stuff that i use</h3>
 
