@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/French-Noodles/French-Noodles/main/banner.png">
-
 <h2> Hey there! I'm French Noodles!.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
